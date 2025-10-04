@@ -1,2 +1,3 @@
-# HTML_PORTFOLIO
+# My Stuff
 -> JUST MY PORTFOLIO :)
+-> & MY RESUME
